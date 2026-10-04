@@ -25,7 +25,3 @@ if (controller.IsPressed(NF::exController::Button::A))
     // A pressed
 }
 ```
-
-## License
-
-MIT# exController
