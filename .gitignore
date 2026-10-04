@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Repository files
+!.gitignore
+!README.md
+!LICENSE
+
+# Source
+!exController.hpp
