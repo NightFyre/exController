@@ -3,6 +3,8 @@
 //  exController - Controller Interface
 //  
 //  Provides an interface for handling Xbox controller input using XInput.
+// 
+// https://github.com/NightFyre/exController/tree/main
 // ============================================================================
 
 #pragma once
