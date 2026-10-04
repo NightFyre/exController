@@ -1,3 +1,10 @@
+// ============================================================================
+//  NightFyre Frameworks
+//  exController - Controller Interface
+//  
+//  Provides an interface for handling Xbox controller input using XInput.
+// ============================================================================
+
 #pragma once
 
 #include <Windows.h>
